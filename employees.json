@@ -1,0 +1,28 @@
+{
+  "employess": [
+    {
+      "name": "GAYATHRI C",
+      "email": "gayathrireddy1897@gmail.com",
+      "phoneNo": "9901978719",
+      "id": 1
+    },
+    {
+      "name": "RAMESH CHAKRAVARTHY",
+      "email": "ramesh@gmail.com",
+      "phoneNo": 9538335731,
+      "id": 2
+    },
+    {
+      "name": "RENUKA T",
+      "email": "renukat@gmail.com",
+      "phoneNo": 9035245937,
+      "id": 3
+    },
+    {
+      "name": "CHAKRAVARTHY T",
+      "email": "chakravarthy@gmail.com",
+      "phoneNo": 9663438406,
+      "id": 4
+    }
+  ]
+}
